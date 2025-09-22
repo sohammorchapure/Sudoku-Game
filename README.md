@@ -1,5 +1,3 @@
-Ah! You want a single-file README for your GitHub repository. Here’s a clean, professional README.md you can directly use:
-
 # Sudoku Game in Java (JavaFX)
 
 A fully-functional Sudoku game built using **Java** and **JavaFX**, featuring a graphical user interface, Sudoku game logic, and real-time user input validation. This project demonstrates object-oriented programming principles, event handling, and 2D array manipulation in Java.
@@ -77,5 +75,6 @@ Future Improvements
 Author: Soham Morchapure
 Email: sohamwork21@gmail.com
 LinkedIn: https://www.linkedin.com/in/soham-morchapure/
+
 
 
