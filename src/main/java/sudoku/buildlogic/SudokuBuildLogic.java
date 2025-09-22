@@ -1,4 +1,4 @@
-package com.wiseassblog.sudoku.buildlogic;
+package sudoku.buildlogic;
 
 import com.wiseassblog.sudoku.computationlogic.GameLogic;
 import com.wiseassblog.sudoku.persistence.LocalStorageImpl;
